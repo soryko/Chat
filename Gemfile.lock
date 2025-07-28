@@ -306,6 +306,7 @@ PLATFORMS
 
 DEPENDENCIES
   bootsnap
+  bundler (~> 2.7.1)
   capybara
   cssbundling-rails
   debug

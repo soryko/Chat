@@ -75,3 +75,6 @@ end
 gem "ruby-openai", "~> 8.1"
 
 gem "dotenv-rails", "~> 3.1"
+
+# Ensure specific bundler version
+gem "bundler", "~> 2.7.1"
